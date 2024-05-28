@@ -3,7 +3,7 @@ Hall Booking API
 This documentation is about the Hall Booking application done using NodeJS and Express. This API allows you to manage room bookings, create rooms, and retrieve booking details.
 
 
-Base URL: http://localhost:4000
+Base URL: https://nodejs-hallbooking-gshy.onrender.com
 
 
 Packages installed:
