@@ -47,6 +47,6 @@ Method: POST
 
 **All the APIs are well documented using Postman Documentation and Published -** [published Postman API documentation link]()
 
-**Deployed my server in Render -** [Deployed API URL]()
+**Deployed my server in Render -** [Deployed API Render URL](https://hall-booking-task-o1o8.onrender.com)
 
 **Note: Since I'm deployed the apis in render's free tier, The initial request is taking time, Please wait little longer for initial request**
