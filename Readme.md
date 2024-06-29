@@ -1,6 +1,6 @@
 # Hall Booking API Task
 
-    This Hall Booking application done using NodeJS and Express. This API allows you to manage room bookings, create rooms, and retrieve booking details.
+This Hall Booking application done using NodeJS and Express. This API allows you to manage room bookings, create rooms, and retrieve booking details.
  
 **Key Features:**
 
