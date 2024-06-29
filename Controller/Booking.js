@@ -3,8 +3,8 @@ import { rooms } from './Room.js';
 const bookings = [
   {
     id: "1",
-    customerId: "1", // Luffy's Crew (i.e) Strawhat Pirates
-    roomId: "1", // First room
+    customerId: "1",
+    roomId: "1",
     date: "2024-06-01",
     startTime: "10:00",
     endTime: "12:00",
@@ -13,8 +13,8 @@ const bookings = [
   },
   {
     id: "2",
-    customerId: "2", // Naruto's team (i.e) Team 7
-    roomId: "2", // Second room
+    customerId: "2",
+    roomId: "2",
     date: "2024-06-01",
     startTime: "14:00",
     endTime: "16:00",

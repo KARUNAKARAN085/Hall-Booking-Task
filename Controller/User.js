@@ -1,10 +1,9 @@
 import { bookings } from './Booking.js';
 
-// Fun facts about the customer
 const customers = [
-  { id: "1", name: "Luffy" }, // Captain of the Strawhats & Yonko of the Sea
-  { id: "2", name: "Naruto" },// Hoakage of the Leaf village & nine tails Jinchuriki
-  { id: "3", name: "Ichigo" },// Substitute Shinigami of karakura town
+  { id: "1", name: "karan" },
+  { id: "2", name: "vicky" },
+  { id: "3", name: "sathish" },
 ];
 
 export const listBookings = (req, res) => {

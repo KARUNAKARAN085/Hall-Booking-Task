@@ -1,87 +1,52 @@
-Hall Booking API
+# Hall Booking API Task
 
-This documentation is about the Hall Booking application done using NodeJS and Express. This API allows you to manage room bookings, create rooms, and retrieve booking details.
+    This Hall Booking application done using NodeJS and Express. This API allows you to manage room bookings, create rooms, and retrieve booking details.
+ 
+**Key Features:**
 
+1. **GET All Rooms Detais**
 
-Base URL: https://nodejs-hallbooking-gshy.onrender.com
-
-
-Packages installed:
-
-Express: npm i express
-Cors: npm i cors
-Nodemon: npm i nodemon
-
-
-1. GET All Rooms Detais
-
-URL: http://localhost:4000/rooms/list
-
-List Rooms with Booking Data
+URL: 
 
 Description: Retrives and displays the room json data using get method.
-URL: /rooms/list
+
 Method: GET
-Example: http://localhost:4000/rooms/list
 
+2. **POST Create New Room**
 
-
-2. POST Create New Room
-
-URL: http://localhost:4000/rooms/create
-
+URL: 
 
 Description: Creates a new room with details about the room.
 
-URL: /rooms/create
-
 Method: POST
 
-Example: http://localhost:4000/rooms/create
+3. **GET Display User Details**
 
-
-3. GET Display User Details
-
-URL: http://localhost:4000/users/list
-
-Display User Details
+URL: 
 
 Description: Retrieves and displays a list of all customers and their details.
 
 Method: GET
 
-URL: /users/list
+4. **GET Display Booking data**
 
-Example: http://localhost:4000/users/list
-
-
-4. GET Display Booking data
-
-URL: http://localhost:4000/users/count/1
-
-Display Booking Data
+URL: 
 
 Description: Retrieves and displays a list of all bookings made.
 
 Method: GET
 
-URL: /bookings/list
+5. **POST New Booking**
 
-Example: http://localhost:4000/users/count/1
-
-
-5. POST New Booking
-
-URL: http://localhost:4000/bookings/book
-
-New Booking
+URL: 
 
 Description: Books a room for a customer on a specific date and time.
 
 Method: POST
 
-URL: /bookings/book
 
-Example: http://localhost:4000/bookings/book
+**All the APIs are well documented using Postman Documentation and Published -** [published Postman API documentation link]()
 
-Postman Documentation link: https://documenter.getpostman.com/view/35182338/2sA3QsBYX1
+**Deployed my server in Render -** [Deployed API URL]()
+
+**Note: Since I'm deployed the apis in render's free tier, The initial request is taking time, Please wait little longer for initial request**

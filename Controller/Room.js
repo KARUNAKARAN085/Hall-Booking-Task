@@ -2,14 +2,14 @@ const rooms = [
   { 
     id: "1", 
     numberOfSeats: 50, 
-    amenities: ["AC", "Projector", "WiFi"], 
+    amenities: ["AC", "Heater", "WiFi"], 
     pricePerHour: 100, 
     bookings: [] 
   },
   { 
     id: "2", 
     numberOfSeats: 30, 
-    amenities: ["Projector", "WiFi"], 
+    amenities: ["Heater", "WiFi"], 
     pricePerHour: 70, 
     bookings: [] 
   },
