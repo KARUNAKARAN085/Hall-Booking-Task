@@ -6,7 +6,7 @@ This Hall Booking application done using NodeJS and Express. This API allows you
 
 1. **GET All Rooms Detais**
 
-URL: 
+URL: https://hall-booking-task-o1o8.onrender.com/rooms/list
 
 Description: Retrives and displays the room json data using get method.
 
@@ -14,7 +14,7 @@ Method: GET
 
 2. **POST Create New Room**
 
-URL: 
+URL: https://hall-booking-task-o1o8.onrender.com/rooms/create
 
 Description: Creates a new room with details about the room.
 
@@ -22,7 +22,7 @@ Method: POST
 
 3. **GET Display User Details**
 
-URL: 
+URL: https://hall-booking-task-o1o8.onrender.com/users/list
 
 Description: Retrieves and displays a list of all customers and their details.
 
@@ -30,7 +30,7 @@ Method: GET
 
 4. **GET Display Booking data**
 
-URL: 
+URL: https://hall-booking-task-o1o8.onrender.com/users/count/1
 
 Description: Retrieves and displays a list of all bookings made.
 
@@ -38,7 +38,7 @@ Method: GET
 
 5. **POST New Booking**
 
-URL: 
+URL: https://hall-booking-task-o1o8.onrender.com/bookings/book
 
 Description: Books a room for a customer on a specific date and time.
 
