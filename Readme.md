@@ -45,7 +45,7 @@ Description: Books a room for a customer on a specific date and time.
 Method: POST
 
 
-**All the APIs are well documented using Postman Documentation and Published -** [published Postman API documentation link]()
+**All the APIs are well documented using Postman Documentation and Published -** [published Postman API documentation link](https://documenter.getpostman.com/view/34879950/2sA3duFYgP)
 
 **Deployed my server in Render -** [Deployed API Render URL](https://hall-booking-task-o1o8.onrender.com)
 
